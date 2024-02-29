@@ -1,0 +1,1 @@
+Check out the final demonstration of the full Account Abstraction from Scratch project: https://youtube.com/clip/UgkxqH_A6YE7gdWWWuTGI_C2l59kyyb4FIhr?si=baSYPSqg4Fc-rwqW
